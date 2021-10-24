@@ -1,7 +1,7 @@
 export const BRAND = {
   name: 'Open Template Hub',
   logo: {
-    main: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/brand-logo.min.png',
+    main: './assets/logo/brand-logo.png',
     error: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/brand-logo-broken.min.png',
     maintenance: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/brand-logo-merge.gif',
     fixed: 'https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/min/logo/brand-logo-merged.png',
